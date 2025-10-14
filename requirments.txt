@@ -1,0 +1,4 @@
+# Requirements for the project
+requests
+pyautogui
+pyinstaller
