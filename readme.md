@@ -23,9 +23,7 @@ This project was created for the TJM Labs Software Developer take-home assessmen
 
 For quick testing on Windows, you can download the standalone executable from the latest release. No setup is required.
 
-**[➡️ Download `notepad_bot.exe` from the latest release](https://github.com/your-username/your-repository-name/releases/latest)**
-
-*(Note: Please replace the link above with the actual link to your repository's releases page).*
+**[➡️ Download `notepad_bot.exe` from the latest release](https://github.com/Mohamed-NA/python-notepad-bot/releases/tag/v1.0)**
 
 ---
 
@@ -41,8 +39,8 @@ If you prefer to run the script from the source code, follow these steps:
 
 1.**Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/Mohamed-NA/python-notepad-bot](https://github.com/Mohamed-NA/python-notepad-bot)
+    cd python-notepad-bot
     ```
 
 2.**Create and activate a virtual environment:**
