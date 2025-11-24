@@ -8,9 +8,7 @@ import subprocess
 
 # API settings for fetching data from a public API
 # Using ?_limit=10 to limit the number of posts fetched to the required number
-API_URL = "https://jsonplaceholder.typicode.com/posts?_limit=10"
-# data file to store fetched data
-DATA_FILE = "data.txt"
+API_URL = "https://jsonplaceholder.typicode.com/posts?_limit=3"
 
 #Path to the desktop and project folder
 desktop_path = os.path.join(os.path.expanduser("~"), "Desktop")
